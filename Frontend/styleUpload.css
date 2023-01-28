@@ -1,0 +1,19 @@
+h1 {
+    color:black;
+    
+}
+
+h2,
+h3 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+body {
+    text-align: center;
+    background-image: url("Sports\ background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: larger;
+}
+
